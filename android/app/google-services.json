@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091418971549",
+    "project_id": "flash-chat-6f942",
+    "storage_bucket": "flash-chat-6f942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091418971549:android:21ecf7a407db78a7692374",
+        "android_client_info": {
+          "package_name": "co.Ambmostafa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091418971549-rmqfh1hsesl7rt8b78mt0pvbpu4tir8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnNQG83ZXxZDsX7_71AEYgYjlFPyE89QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091418971549-rmqfh1hsesl7rt8b78mt0pvbpu4tir8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
